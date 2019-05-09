@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "435617818532",
+    "firebase_url": "https://friendschat-80522.firebaseio.com",
+    "project_id": "friendschat-80522",
+    "storage_bucket": "friendschat-80522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435617818532:android:1f6bd7d1a7a1efee",
+        "android_client_info": {
+          "package_name": "com.system.kuet.friendschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435617818532-hi1p2imbbq7m64ii7ea62jho5j1ddmi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.system.kuet.friendschat",
+            "certificate_hash": "3597feecd3b89a1814a46ed1aa54ec7ba87ab023"
+          }
+        },
+        {
+          "client_id": "435617818532-jdsncdftro6satdget9rg6sdjdmhcqak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.system.kuet.friendschat",
+            "certificate_hash": "e4a9c6841776e10571f8aae366ee764c4ece8de3"
+          }
+        },
+        {
+          "client_id": "435617818532-925r0frnb3v892v4cebqshkh1g753g7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBem2wSCZ6uv4VvsL4frY59Yn6avN0AyZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435617818532-925r0frnb3v892v4cebqshkh1g753g7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
